@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">SanRafa</string>
+    <string name="app_name">Guatapé</string>
+    <string name="titulohomehoteles">Hoteles en Guatapé</string>
+    <string name="Descrippcionhomehoteles">En nuestro pueblo encontraras alojamientos desde 35000 COP hasta lujosas cabañas dotadas de todos los elementos para
+        un descanso
+    </string>
+    <string name="botonhomehoteles">ver hoteles</string>
+    <string name="titulohomerestaurante">Restaurantes en guatapé</string>
+    <string name="Descripcionhomerestaurante">En nuestro pueblo podras encontrar con facilidad gran variedad de restaurantes a precios favorables,buen servicio
+    y una excelente calidad del plato</string>
+    <string name="botonrestaurantes">ver Restaurantes</string>
 </resources>
