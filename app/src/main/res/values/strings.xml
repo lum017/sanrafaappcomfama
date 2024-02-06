@@ -8,5 +8,15 @@
     <string name="titulohomerestaurante">Restaurantes en guatapé</string>
     <string name="Descripcionhomerestaurante">En nuestro pueblo podras encontrar con facilidad gran variedad de restaurantes a precios favorables,buen servicio
     y una excelente calidad del plato</string>
-    <string name="botonrestaurantes">ver Restaurantes</string>
+    <string name="botonRestaurantes">ver Restaurantes</string>
+    <string name="titulohomesitios">Sitios turisticos en guatapé</string>
+    <string name="Descripcionhomesitios">En nuestro pueblo podras encontrar diferentes sitios turisticos desde atracciones hasta lugares demasiado novedoso con historias</string>
+    <string name="botonsitios">ver sitios</string>
+
+    <string name="menuopcion1">Ingles</string>
+    <string name="menuopcion2">Español</string>
+    <string name="menuopcion3">Portugues</string>
+    <string name="menuopcion4">Reseña</string>
+    <string name="menuopcion5">Acerca de</string>
+
 </resources>
