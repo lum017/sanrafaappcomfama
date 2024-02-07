@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guatapé</string>
+    <string name="titulohomehoteles">Hotéis em Guatapé</string>
+    <string name="Descrippcionhomehoteles">Em nossa cidade você encontrará acomodações desde 35.000 COP até luxuosas cabines equipadas com todos os elementos para
+        um descanso
+    </string>
+    <string name="botonhomehoteles">ver hotéis</string>
+    <string name="titulohomerestaurante">Restaurantes em Guatapé</string>
+    <string name="Descripcionhomerestaurante">Em nossa cidade você pode facilmente encontrar uma grande variedade de restaurantes a preços favoráveis, bom serviço.
+    e excelente qualidade do prato</string>
+    <string name="botonRestaurantes">ver Restaurantes</string>
+    <string name="titulohomesitios">Pontos turísticos em Guatapé</string>
+    <string name="Descripcionhomesitios">
+Em nossa cidade você pode encontrar diversos locais turísticos, desde atrações até lugares muito novos com histórias.</string>
+    <string name="botonsitios">ver sites</string>
+
+    <string name="menuopcion1">Ingles</string>
+    <string name="menuopcion2">Espanhol</string>
+    <string name="menuopcion3">Portugues</string>
+    <string name="menuopcion4">análise</string>
+    <string name="menuopcion5">Sobre</string>
+
+</resources>

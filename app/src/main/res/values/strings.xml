@@ -18,5 +18,8 @@
     <string name="menuopcion3">Portugues</string>
     <string name="menuopcion4">Reseña</string>
     <string name="menuopcion5">Acerca de</string>
-
+    <string name="tituloresena">Reseña</string>
+    <string name="descripcionresena">En 1991, en la presidencia de César Gaviria, las aguas de la represa bajaron. Hubo un racionamiento de energía. Desde los cerros cercanos se logró ver una parte de las ruinas que sobresalían del barro y los charcos.
+        Los peñolenses pudieron ver el territorio en el que un día estuvo su hogar.
+Esta vieja generación mantiene viva su historia. Tratan que los turistas no solo visiten la zona para pasear el fin de semana y que el pasado no se ahogue junto las ruinas de sus hogares.</string>
 </resources>
