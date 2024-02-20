@@ -22,4 +22,9 @@
     <string name="descripcionresena">En 1991, en la presidencia de César Gaviria, las aguas de la represa bajaron. Hubo un racionamiento de energía. Desde los cerros cercanos se logró ver una parte de las ruinas que sobresalían del barro y los charcos.
         Los peñolenses pudieron ver el territorio en el que un día estuvo su hogar.
 Esta vieja generación mantiene viva su historia. Tratan que los turistas no solo visiten la zona para pasear el fin de semana y que el pasado no se ahogue junto las ruinas de sus hogares.</string>
+    <string name="tituloacercade">Acerca de:</string>
+    <string name="descripcionacercade">mi nombre es laura usuga Martinez estudiante de desarrollo de software en la ciudad de medellin</string>
+    <string name="homehoteles">hoteles: </string>
+    <string name="homerestaurantes">restaurantes:</string>
+    <string name="homesitiosturisticos">sitios turisticos: </string>
 </resources>

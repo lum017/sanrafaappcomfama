@@ -87,7 +87,9 @@ startActivity(intentIngles);
          startActivity(intent);
      } else if (itemSeleccionado==R.id.opcion5){
          Toast.makeText(this,"presiono  opcion5",Toast.LENGTH_SHORT).show();
-}return super.onOptionsItemSelected(item);
+         Intent intent = new Intent(Home.this, Acercade.class);
+         startActivity(intent);
+     }return super.onOptionsItemSelected(item);
 }
 public void  cambiarIdioma(String idioma){
         //configurar el idioma del telefono desde app

@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        audio=MediaPlayer.create(this,R.raw.intro);
+        audio=MediaPlayer.create(this,R.raw.pelea);
         audio.start();
 
         //crear un delay de tiempo para lanzar la app
@@ -26,9 +26,10 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void run() {
 
-                //lanzar la nueva actividad
+
                 Intent nuevaActividad=new Intent(MainActivity.this,Home.class);
                 startActivity(nuevaActividad);
+                audio.stop();
 
             }
         };
